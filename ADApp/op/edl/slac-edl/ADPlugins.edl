@@ -34,7 +34,7 @@ x 122
 y 10
 w 8
 h 40
-font "utopia-medium-r-32.0"
+font "helvetica-medium-r-32.0"
 fgColor index 14
 bgColor index 3
 useDisplayBg
