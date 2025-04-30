@@ -314,6 +314,7 @@ record(mbbo, "$(P)$(R)SortMode") {
     field(ZRST, "Unsorted")
     field(ONVL, "1")
     field(ONST, "Sorted")
+    info(autosaveFields, "VAL")
 }
 
 record(mbbi, "$(P)$(R)SortMode_RBV") {
@@ -332,6 +333,7 @@ record(ao, "$(P)$(R)SortTime") {
     field(OUT,  "@asyn($(PORT),$(ADDR=0),$(TIMEOUT=1))SORT_TIME")
     field(PREC, "3")
     field(VAL, "0.1")
+    info(autosaveFields, "VAL")
 }
 
 record(ai, "$(P)$(R)SortTime_RBV") {
@@ -347,6 +349,7 @@ record(longout, "$(P)$(R)SortSize")
     field(OUT,  "@asyn($(PORT),$(ADDR=0),$(TIMEOUT=1))SORT_SIZE")
     field(VAL,  "20")
     field(PINI, "YES")
+    info(autosaveFields, "VAL")
 }
 
 record(longin, "$(P)$(R)SortSize_RBV")
