@@ -170,13 +170,13 @@ icon
 numPvs 14
 numDsps 7
 displayFileName {
-  0 NDFileNetCDF.edl
-  1 NDFileTIFF.edl
-  2 NDFileJPEG.edl
-  3 NDFileNexus.edl
-  4 NDFileMagick.edl
-  5 NDFileHDF5.edl
-  6 NDFileNull.edl
+  0 areaDetectorScreens/NDFileNetCDF.edl
+  1 areaDetectorScreens/NDFileTIFF.edl
+  2 areaDetectorScreens/NDFileJPEG.edl
+  3 areaDetectorScreens/NDFileNexus.edl
+  4 areaDetectorScreens/NDFileMagick.edl
+  5 areaDetectorScreens/NDFileHDF5.edl
+  6 areaDetectorScreens/NDFileNull.edl
 }
 menuLabel {
   0 netCDF file #1
@@ -226,11 +226,11 @@ icon
 numPvs 10
 numDsps 5
 displayFileName {
-  0 NDROI.edl
-  1 NDROI.edl
-  2 NDROI.edl
-  3 NDROI.edl
-  4 NDROI4.edl
+  0 areaDetectorScreens/NDROI.edl
+  1 areaDetectorScreens/NDROI.edl
+  2 areaDetectorScreens/NDROI.edl
+  3 areaDetectorScreens/NDROI.edl
+  4 areaDetectorScreens/NDROI4.edl
 }
 menuLabel {
   0 ROI #1
@@ -274,7 +274,7 @@ buttonLabel "All"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 commonPlugins.edl
+  0 areaDetectorScreens/commonPlugins.edl
 }
 menuLabel {
   0 Common plugins
@@ -306,12 +306,12 @@ icon
 numPvs 12
 numDsps 6
 displayFileName {
-  0 NDStats.edl
-  1 NDStats.edl
-  2 NDStats.edl
-  3 NDStats.edl
-  4 NDStats.edl
-  5 NDStats5.edl
+  0 areaDetectorScreens/NDStats.edl
+  1 areaDetectorScreens/NDStats.edl
+  2 areaDetectorScreens/NDStats.edl
+  3 areaDetectorScreens/NDStats.edl
+  4 areaDetectorScreens/NDStats.edl
+  5 areaDetectorScreens/NDStats5.edl
 }
 menuLabel {
   0 Statistics #1
@@ -359,21 +359,21 @@ buttonLabel "Other #1"
 numPvs 30
 numDsps 15
 displayFileName {
-  0 NDStdArrays.edl
-  1 NDStdArrays.edl
-  2 NDProcess.edl
-  3 NDTransform.edl
-  4 NDColorConvert.edl
-  5 NDColorConvert.edl
-  6 NDOverlay.edl
-  7 NDOverlay8.edl
-  8 NDCircularBuff.edl
-  9 NDROIStat.edl
-  10 NDPluginAttribute.edl
-  11 NDFFT.edl
-  12 NDScatter.edl
-  13 NDGather8.edl
-  14 NDPva.edl
+  0 areaDetectorScreens/NDStdArrays.edl
+  1 areaDetectorScreens/NDStdArrays.edl
+  2 areaDetectorScreens/NDProcess.edl
+  3 areaDetectorScreens/NDTransform.edl
+  4 areaDetectorScreens/NDColorConvert.edl
+  5 areaDetectorScreens/NDColorConvert.edl
+  6 areaDetectorScreens/NDOverlay.edl
+  7 areaDetectorScreens/NDOverlay8.edl
+  8 areaDetectorScreens/NDCircularBuff.edl
+  9 areaDetectorScreens/NDROIStat.edl
+  10 areaDetectorScreens/NDPluginAttribute.edl
+  11 areaDetectorScreens/NDFFT.edl
+  12 areaDetectorScreens/NDScatter.edl
+  13 areaDetectorScreens/NDGather8.edl
+  14 areaDetectorScreens/NDPva.edl
 }
 menuLabel {
   0 Image #1
@@ -450,7 +450,7 @@ numDsps 3
 displayFileName {
   0 scan_more.edl
   1 yySseq.edl
-  2 ioc_stats_soft.edl
+  2 iocScreens/ioc_stats_soft.edl
 }
 menuLabel {
   0 Scan #1
