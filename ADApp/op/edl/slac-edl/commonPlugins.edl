@@ -5204,7 +5204,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDStdArrays.edl
+  0 areaDetectorScreens/NDStdArrays.edl
 }
 menuLabel {
   0 image1:
@@ -5757,7 +5757,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDProcess.edl
+  0 areaDetectorScreens/NDProcess.edl
 }
 menuLabel {
   0 Proc1:
@@ -5790,7 +5790,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDTransform.edl
+  0 areaDetectorScreens/NDTransform.edl
 }
 menuLabel {
   0 Trans1:
@@ -5823,7 +5823,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDColorConvert.edl
+  0 areaDetectorScreens/NDColorConvert.edl
 }
 menuLabel {
   0 CC1:
@@ -5856,7 +5856,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDColorConvert.edl
+  0 areaDetectorScreens/NDColorConvert.edl
 }
 menuLabel {
   0 CC2:
@@ -5889,7 +5889,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDOverlay.edl
+  0 areaDetectorScreens/NDOverlay.edl
 }
 menuLabel {
   0 Over1:
@@ -5922,7 +5922,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDROI.edl
+  0 areaDetectorScreens/NDROI.edl
 }
 menuLabel {
   0 ROI1:
@@ -5955,7 +5955,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDROI.edl
+  0 areaDetectorScreens/NDROI.edl
 }
 menuLabel {
   0 ROI2:
@@ -5988,7 +5988,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDROI.edl
+  0 areaDetectorScreens/NDROI.edl
 }
 menuLabel {
   0 ROI3:
@@ -6021,7 +6021,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDROI.edl
+  0 areaDetectorScreens/NDROI.edl
 }
 menuLabel {
   0 ROI4:
@@ -6054,7 +6054,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDStats.edl
+  0 areaDetectorScreens/NDStats.edl
 }
 menuLabel {
   0 Stats1:
@@ -6087,7 +6087,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDStats.edl
+  0 areaDetectorScreens/NDStats.edl
 }
 menuLabel {
   0 Stats2:
@@ -6120,7 +6120,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDStats.edl
+  0 areaDetectorScreens/NDStats.edl
 }
 menuLabel {
   0 Stats3:
@@ -6153,7 +6153,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDStats.edl
+  0 areaDetectorScreens/NDStats.edl
 }
 menuLabel {
   0 Stats4:
@@ -6226,7 +6226,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDStats.edl
+  0 areaDetectorScreens/NDStats.edl
 }
 menuLabel {
   0 Stats5:
@@ -6299,7 +6299,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDROIStat.edl
+  0 areaDetectorScreens/NDROIStat.edl
 }
 menuLabel {
   0 ROI Statistics #1
@@ -6384,7 +6384,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDCircularBuff.edl
+  0 areaDetectorScreens/NDCircularBuff.edl
 }
 menuLabel {
   0 CB1:
@@ -6474,7 +6474,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDScatter.edl
+  0 areaDetectorScreens/NDScatter.edl
 }
 menuLabel {
   0 Scatter1:
@@ -6564,7 +6564,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDGather8.edl
+  0 areaDetectorScreens/NDGather8.edl
 }
 menuLabel {
   0 Gather1:
@@ -6814,7 +6814,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDFileNetCDF.edl
+  0 areaDetectorScreens/NDFileNetCDF.edl
 }
 menuLabel {
   0 netCDF1:
@@ -6847,7 +6847,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDFileTIFF.edl
+  0 areaDetectorScreens/NDFileTIFF.edl
 }
 menuLabel {
   0 TIFF1:
@@ -6880,7 +6880,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDFileJPEG.edl
+  0 areaDetectorScreens/NDFileJPEG.edl
 }
 menuLabel {
   0 JPEG1:
@@ -6913,7 +6913,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDFileNexus.edl
+  0 areaDetectorScreens/NDFileNexus.edl
 }
 menuLabel {
   0 Nexus1:
@@ -6946,7 +6946,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDFileMagick.edl
+  0 areaDetectorScreens/NDFileMagick.edl
 }
 menuLabel {
   0 Magick1:
@@ -7019,7 +7019,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDFileHDF5.edl
+  0 areaDetectorScreens/NDFileHDF5.edl
 }
 menuLabel {
   0 HDF1:
@@ -7097,7 +7097,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDFFT.edl
+  0 areaDetectorScreens/NDFFT.edl
 }
 menuLabel {
   0 FFT1:
@@ -7182,8 +7182,8 @@ buttonLabel "More"
 numPvs 4
 numDsps 2
 displayFileName {
-  0 NDPluginAttribute.edl
-  1 NDPluginAttribute8.edl
+  0 areaDetectorScreens/NDPluginAttribute.edl
+  1 areaDetectorScreens/NDPluginAttribute8.edl
 }
 menuLabel {
   0 Attr1:
@@ -7276,7 +7276,7 @@ buttonLabel "More"
 numPvs 2
 numDsps 1
 displayFileName {
-  0 NDPva.edl
+  0 areaDetectorScreens/NDPva.edl
 }
 menuLabel {
   0 Pva1:
